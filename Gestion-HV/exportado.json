@@ -1,0 +1,72 @@
+[
+    {
+        "datos_personales": {
+            "nombre": "Johan",
+            "documento": "1025",
+            "correo": "johrv",
+            "telefono": "305",
+            "direccion": "ccalle 11",
+            "fecha_nacimiento": "2005"
+        },
+        "formacion_academica": [
+            {
+                "institucion": "Loyola",
+                "titulo": "Bachiller",
+                "anios": "2017-2022"
+            }
+        ],
+        "experiencia_profesional": [
+            {
+                "empresa": "EPs",
+                "cargo": "jefe",
+                "funciones": "d",
+                "duracion": "40"
+            }
+        ],
+        "referencias": [
+            {
+                "nombre": "Viviana",
+                "relacion": "Madre",
+                "telefono": "311"
+            }
+        ],
+        "habilidades": [
+            "auditora"
+        ]
+    },
+    {
+        "datos_personales": {
+            "nombre": "Kevin",
+            "documento": "10444",
+            "correo": "kevinr",
+            "telefono": "311",
+            "direccion": "calle 44",
+            "fecha_nacimiento": "29"
+        },
+        "formacion_academica": [
+            {
+                "institucion": "finca",
+                "titulo": "bachiller",
+                "anios": "2017-2022"
+            }
+        ],
+        "experiencia_profesional": [
+            {
+                "empresa": "COnst",
+                "cargo": "jefe",
+                "funciones": "xd",
+                "duracion": "20"
+            }
+        ],
+        "referencias": [
+            {
+                "nombre": "Eliana",
+                "relacion": "madre",
+                "telefono": "3066"
+            }
+        ],
+        "habilidades": [
+            "Contadora"
+        ]
+    }
+]
